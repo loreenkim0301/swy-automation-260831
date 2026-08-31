@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.egg-info/
+.langgraph_api/
+.crewai/
+*.png
+*.mmd
+*.html
+crew_flow/
+.DS_Store
